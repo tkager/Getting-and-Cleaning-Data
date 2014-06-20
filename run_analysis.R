@@ -1,4 +1,4 @@
-# run.analisys.r
+# run.analysis.r
 # Course: Getting and Cleaning Data 
 # Author: Thomas Kager
 # Date: 6-19-2014
